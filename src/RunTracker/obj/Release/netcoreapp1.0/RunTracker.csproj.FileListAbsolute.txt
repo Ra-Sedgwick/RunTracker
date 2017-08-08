@@ -1,0 +1,10 @@
+C:\Users\rased\Documents\GitHub\Portfolio\Personal_Projects\RunTracker(ASP.NET)\src\RunTracker\bin\Release\netcoreapp1.0\RunTracker.deps.json
+C:\Users\rased\Documents\GitHub\Portfolio\Personal_Projects\RunTracker(ASP.NET)\src\RunTracker\bin\Release\netcoreapp1.0\RunTracker.runtimeconfig.json
+C:\Users\rased\Documents\GitHub\Portfolio\Personal_Projects\RunTracker(ASP.NET)\src\RunTracker\bin\Release\netcoreapp1.0\RunTracker.runtimeconfig.dev.json
+C:\Users\rased\Documents\GitHub\Portfolio\Personal_Projects\RunTracker(ASP.NET)\src\RunTracker\bin\Release\netcoreapp1.0\RunTracker.dll
+C:\Users\rased\Documents\GitHub\Portfolio\Personal_Projects\RunTracker(ASP.NET)\src\RunTracker\bin\Release\netcoreapp1.0\RunTracker.pdb
+C:\Users\rased\Documents\GitHub\Portfolio\Personal_Projects\RunTracker(ASP.NET)\src\RunTracker\obj\Release\netcoreapp1.0\RunTracker.csprojResolveAssemblyReference.cache
+C:\Users\rased\Documents\GitHub\Portfolio\Personal_Projects\RunTracker(ASP.NET)\src\RunTracker\obj\Release\netcoreapp1.0\UserSecretsAssemblyInfo.cs
+C:\Users\rased\Documents\GitHub\Portfolio\Personal_Projects\RunTracker(ASP.NET)\src\RunTracker\obj\Release\netcoreapp1.0\RunTracker.AssemblyInfo.cs
+C:\Users\rased\Documents\GitHub\Portfolio\Personal_Projects\RunTracker(ASP.NET)\src\RunTracker\obj\Release\netcoreapp1.0\RunTracker.dll
+C:\Users\rased\Documents\GitHub\Portfolio\Personal_Projects\RunTracker(ASP.NET)\src\RunTracker\obj\Release\netcoreapp1.0\RunTracker.pdb
