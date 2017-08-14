@@ -59,14 +59,8 @@ a.smallLink {
     text-decoration: none !important;
 }
 
-    a.smallLink:hover {
-        text-decoration: underline !important;
-    }
-
-/* Date Picker*/
-.datepicker {
-    background-color: #fff;
-    color: #333;
+a.smallLink:hover {
+    text-decoration: underline !important;
 }
 
 /* Create Run dropdown*/
