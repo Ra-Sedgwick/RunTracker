@@ -138,5 +138,9 @@ td {
 
 /* Fix x-axis label crop in firefox */
 .ct-chart-line{
-        overflow:visible !important;
+    overflow:visible !important;
+}
+
+#date-toolbar {
+    margin-bottom: 8px;
 }
