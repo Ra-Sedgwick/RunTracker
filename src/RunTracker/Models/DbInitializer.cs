@@ -18,18 +18,22 @@ namespace RunTracker.Models
 
             _context.Database.EnsureCreated();
 
-
-       
             // Look for seed data
             if (_context.Users.Any())
             {
                 return;     // Db has been seeded already
             }
 
-
             // Add test user
-            var testUser = new ApplicationUser { Email = "test@gmail.com", UserName = "test@gmail.com", FirstName = "Robert", LastName = "Sedgwick",
-                                                 Age = 31, PhoneNumber = "705-252-0096"};
+            var testUser = new ApplicationUser
+            {
+                Email = "test@gmail.com",
+                UserName = "test@gmail.com",
+                FirstName = "Robert",
+                LastName = "Sedgwick",
+                Age = 31,
+                PhoneNumber = "705-252-0096"
+            };
             _manager.CreateAsync(testUser, "Test1234!");
 
             // Add shoes
@@ -166,6 +170,5 @@ namespace RunTracker.Models
 
             _context.SaveChanges();
         }
-
     }
 }
